@@ -1,0 +1,8 @@
+.container, h1{
+    display: block;
+    text-align: center;
+}
+
+.fennec{
+    max-width: 250px;
+}
